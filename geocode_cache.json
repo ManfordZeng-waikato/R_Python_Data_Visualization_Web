@@ -1,0 +1,106 @@
+{
+  "Addington": {
+    "latitude": -43.5429362,
+    "longitude": 172.6125849
+  },
+  "Albany": {
+    "latitude": -36.7279344,
+    "longitude": 174.7086478
+  },
+  "Auckland": {
+    "latitude": -36.852095,
+    "longitude": 174.7631803
+  },
+  "Christchurch": {
+    "latitude": -43.530955,
+    "longitude": 172.6364343
+  },
+  "Dunedin": {
+    "latitude": -45.8740984,
+    "longitude": 170.5035755
+  },
+  "Ellerslie": {
+    "latitude": -36.897603,
+    "longitude": 174.8150298
+  },
+  "Epsom": {
+    "latitude": -36.8858447,
+    "longitude": 174.7734616
+  },
+  "Grey Lynn": {
+    "latitude": -36.859922,
+    "longitude": 174.7364178
+  },
+  "Hamilton": {
+    "latitude": -37.7878809,
+    "longitude": 175.281788
+  },
+  "Hamilton Lake": {
+    "latitude": -37.8039731,
+    "longitude": 175.2723475
+  },
+  "Kelburn": {
+    "latitude": -41.289205,
+    "longitude": 174.7623927
+  },
+  "Lower Hutt": {
+    "latitude": -41.2125751,
+    "longitude": 174.9057626
+  },
+  "Mangere": {
+    "latitude": -36.9707502,
+    "longitude": 174.7995292
+  },
+  "Mount Victoria": {
+    "latitude": -41.296076,
+    "longitude": 174.7943018
+  },
+  "Napier": {
+    "latitude": -39.4902099,
+    "longitude": 176.917839
+  },
+  "Nelson": {
+    "latitude": -41.2710849,
+    "longitude": 173.2836756
+  },
+  "Newmarket": {
+    "latitude": -36.8674453,
+    "longitude": 174.7780755
+  },
+  "Palmerston": {
+    "latitude": -45.4842441,
+    "longitude": 170.715319
+  },
+  "Parnell": {
+    "latitude": -36.8554763,
+    "longitude": 174.7805576
+  },
+  "Penrose": {
+    "latitude": -36.9111443,
+    "longitude": 174.8147813
+  },
+  "Petone": {
+    "latitude": -41.2249675,
+    "longitude": 174.8790351
+  },
+  "Rosedale": {
+    "latitude": -36.7397196,
+    "longitude": 174.7204728
+  },
+  "Takanini": {
+    "latitude": -37.0403264,
+    "longitude": 174.9195474
+  },
+  "Taupo": {
+    "latitude": -38.6866197,
+    "longitude": 176.0694773
+  },
+  "Te Rapa": {
+    "latitude": -37.7521378,
+    "longitude": 175.2339189
+  },
+  "Wellington": {
+    "latitude": -41.2887953,
+    "longitude": 174.7772114
+  }
+}
