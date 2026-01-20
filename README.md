@@ -176,10 +176,3 @@ The application follows a modular architecture:
   - **Heatmap**: Density-based visualization
   - **Cluster**: Grouped markers for performance with many locations
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
