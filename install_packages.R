@@ -4,6 +4,7 @@ required_packages <- c(
   "leaflet",
   "leaflet.extras",
   "dplyr",
+  "rlang",
   "readr",
   "DT",
   "ggplot2",
