@@ -1,6 +1,8 @@
 required_packages <- c(
   "shiny",
+  "bslib",
   "leaflet",
+  "leaflet.extras",
   "dplyr",
   "readr",
   "DT",

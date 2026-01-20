@@ -51,3 +51,4 @@ to `nz_jobs_data.csv`.
 - If some locations fail to geocode, review or extend the manual mapping in
   `add_coordinates.py` (`MANUAL_LOCATION_MAP`).
 - Geocoding uses OpenStreetMap Nominatim. Be considerate with request rates.
+- The Shiny app supports both bubble markers and a true heatmap layer (via `leaflet.extras`).
