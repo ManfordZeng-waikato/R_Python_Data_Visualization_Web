@@ -12,6 +12,8 @@ normalize_city <- function(value) {
     "Mount Eden" = "Auckland",
     "Mount Wellington" = "Auckland",
     "Wellington Central" = "Wellington",
+    "Kelburn" = "Wellington",
+    "Mount Victoria" = "Wellington",
     "Petone" = "Wellington",
     "Lower Hutt" = "Wellington",
     "Christchurch Central" = "Christchurch",
@@ -39,7 +41,7 @@ normalize_city <- function(value) {
 
   # Wellington region suburbs (treat as Wellington at city aggregation).
   if (grepl(
-    "lower hutt|upper hutt|petone|porirua|johnsonville|thorndon|te aro|newtown|kilbirnie|miramar",
+    "kelburn|mount victoria|lower hutt|upper hutt|petone|porirua|johnsonville|thorndon|te aro|newtown|kilbirnie|miramar",
     lower
   )) {
     return("Wellington")
