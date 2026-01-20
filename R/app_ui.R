@@ -49,10 +49,10 @@ app_ui <- function() {
     ),
     shiny::div(
       class = "app-header",
-      shiny::h2("NZ IT Jobs Heatmap"),
+      shiny::h2("NZ IT Jobs Explorer"),
       shiny::div(
         class = "app-subtitle",
-        "Explore the geographic distribution of IT job postings in New Zealand"
+        "Interactive map and analytics for IT job opportunities across New Zealand"
       )
     ),
     mod_jobs_explorer_ui("jobs_explorer")
